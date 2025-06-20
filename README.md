@@ -69,5 +69,6 @@ write.csv(DMO1, 'Demographic Summary Table.csv')
 
 ## 📌 Output:
 
+![Image](https://github.com/user-attachments/assets/c97547ec-507d-49db-984b-8d55a06fea6e)
 
 
